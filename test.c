@@ -3,6 +3,6 @@
 
 int main(void)
 {
-	printf("Hello From Ashish's New Linux Machine!");
+	printf("Hello From Ashish's New Linux Machine!\n");
 	return 0;
 }
