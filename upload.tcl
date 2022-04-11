@@ -9,7 +9,7 @@ exec git config --global user.name “Ashish”
 
 puts "Adding files to push:"
 set path pwd
-git_add "*.c"
+git_add "test.c"
 git_add "upload.tcl"
 
 puts "Commit message: "
